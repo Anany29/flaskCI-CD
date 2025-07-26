@@ -1,7 +1,7 @@
 APP_CONFIG = {
-    "version": "1.0.3",
+    "version": "1.0.1",
     "env": "production",
     "debug": False,
-    "maintainer": "Jibbran Ali"
+    "maintainer": "Ananya Sharma"
 }
 
